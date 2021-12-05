@@ -1,16 +1,19 @@
 ### beci:
-  - aplice garaj
-  - aplice beci
+  - aplice:
+    - garaj + beci
+    - 3 aplice in total
   - intrerupatoare cap scapara pe doza normala
     - cate?
-      > n
   - 4 prize duble ingropata pe doza normala (rotunda)
 
 ### baie:
   - trebuie sa cumparam ceva?
+  - priza italiana dubla (stanga de oglinda)
+  - priza normala pt uscator (dreapta de oglinda)
+  - priza cu protectie si intrerupator pt cada si masina de spalat
 
 ### bucatarie:
-  - trebuie sa cumparam ceva
+  - trebuie sa cumparam ceva in faza 1(fara mobila bucatarie)
 
 ### altele:
   - pret
