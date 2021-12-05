@@ -13,7 +13,7 @@
   - priza cu protectie si intrerupator pt cada si masina de spalat
 
 ### bucatarie:
-  - trebuie sa cumparam ceva in faza 1(fara mobila bucatarie)
+  - trebuie sa cumparam ceva in faza 1?(fara mobila bucatarie)
 
 ### altele:
   - pret
